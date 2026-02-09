@@ -3,8 +3,6 @@
 ---
 
 ```md
-# BookWise – AI-Ready Appointment Booking System
-
 A modern **MERN stack** based appointment booking platform that supports:
 
 ✅ User & Admin dashboards  
@@ -158,17 +156,6 @@ MONGO_URI=YOUR_MONGODB_ATLAS_URI
 PORT=5000
 JWT_SECRET=YOUR_RANDOM_SECRET
 ```
-
----
-
-## 🎯 Resume Bullet Points You Can Use
-
-* Built a secure **two-sided Appointment Booking System** using MERN
-* Designed a **dynamic calendar/slot interface in React**
-* Implemented **JWT auth** so users can access only their bookings
-* Added **multi-provider and service-type support**
-* Developed cancellation and conflict resolution logic using indexed Mongo queries
-* Reduced availability check load time by **40%**
 
 ```
 
